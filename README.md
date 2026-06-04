@@ -1,7 +1,7 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212223240037
+### REGISTER NUMBER : 212223230150
 
 # Aim: 
 To write the prompts for these following prompt types and evaluate that using any one method 
